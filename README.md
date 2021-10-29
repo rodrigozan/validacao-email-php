@@ -68,4 +68,8 @@ Se preferir visualizar a imagem da função:
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fbszh4nkiwb2qht0sa3p.png)
 
-Espero que tenham curtido. Dúvidas e sugestões, só usar o form de comentários :D
+Espero que tenham curtido. Dúvidas e sugestões, só chamar na Issue :D
+
+Post original em:
+
+* [Função de validação de email em PHP - Code & Write (blog no Medium)](https://medium.com/code-write/fun%C3%A7%C3%A3o-de-valida%C3%A7%C3%A3o-de-email-em-php-b3ed3bce2955)
